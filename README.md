@@ -1,8 +1,8 @@
-#MovieCloneSite
+# MovieCloneSite
 
 Moive Website clone with React.js
 
-#skills
+# skills
 - React.js
 - Css
 
