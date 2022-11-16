@@ -1,0 +1,28 @@
+.movie_description{
+    display:flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.movie_watch{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 35%;
+}
+.contents{
+    
+    flex-basis: 60%;
+    padding-right: 150px;
+}
+.download_img{
+    width: 30px;
+    height:30px;
+    margin-right: 24px;
+}
+
+.download{
+    display:  flex;
+    align-items: center;
+}
